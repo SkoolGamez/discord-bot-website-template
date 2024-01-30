@@ -13,10 +13,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>BOT</title>
+        <title>Nova</title>
         <meta
           name="description"
-          content="Minimal and awesome discord bot website created with ❤️ using NextJS"
+          content="Looking for a fortnite hack?, we got you covered insane tracking and more. created with ❤️ using NextJS"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
