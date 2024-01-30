@@ -5,21 +5,21 @@ const About = () => {
     <>
       <section className="about-section" id="about-section">
         <div className="about-header">
-          <h3 className="h-color">Why use this bot?</h3>
+          <h3 className="h-color">Why use Nova?</h3>
         </div>
         <div className="about-container">
           <div className="about-card">
             <div>
-              <h4 className="h-color">⚡ Commands</h4>
+              <h4 className="h-color">⚡ Features</h4>
               <p className="p-color">
-                We have more than 200 commands support in this bot.
+                Countless features, strongly defeating our competitors
               </p>
               <hr />
             </div>
             <div>
               <h4 className="h-color">✉️ 24/7 Support</h4>
               <p className="p-color">
-                The biggest support community server for the bot available for
+                The biggest support community server for Nova available for
                 you anytime.
               </p>
               <hr />
@@ -27,7 +27,7 @@ const About = () => {
             <div>
               <h4 className="h-color">✏️ Customization</h4>
               <p className="p-color">
-                Fully customizable discord bot completely FREE!
+                Fully customizable config, that comes with the package. Customizable aim, how strong it is exc
               </p>
               <hr />
             </div>
