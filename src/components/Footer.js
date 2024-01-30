@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  bot.gg
+                  nova.gg
                 </Link>
                 <span
                   style={{
@@ -39,7 +39,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="p-color" href="/commands">
-                  /commands
+                  /features
                 </Link>
               </li>
               <li>
@@ -61,26 +61,26 @@ const Footer = () => {
             <p className="p-color">
               Created with ❤️ by{" "}
               <Link
-                href="https://github.com/preetsuthar17"
+                href="https://discord.com/user/1157793025016205466"
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                Stellarox / Swix
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
             <Link className="p-color no-decoration" href="#">
-              /support
+              /buy
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
+              href="https://discord.gg/4Zvbr39qvr"
             >
-              /source-code
+              /buy
             </Link>
-            <Link className="p-color no-decoration" href="#">
+            <Link className="p-color no-decoration" href="https://discord.gg/4Zvbr39qvr">
               /privacy
             </Link>
           </div>
