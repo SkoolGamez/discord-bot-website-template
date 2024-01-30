@@ -10,25 +10,25 @@ const Showcase = () => {
       animate={{ opacity: 1 }}
     >
       <main className="showcase">
-        <h1 className="showcase-header h-color">BOT</h1>
+        <h1 className="showcase-header h-color">Nova</h1>
         <h2 className="showcase-header-text h-color">
-          The only discord bot you need!
+          The only cheat you will ever need!
         </h2>
         <p className="showcase-para p-color">
-          One of the awesome discord bot with tons of commands that will fill
-          your needs in your discord server.
+      One of the most useful cheats in the league, giving you god-like aim and percision
+      Purchase now, before we run out 😉
         </p>
 
-        <span className="p-color">Bot is online!</span>
+        <span className="p-color">Nova is online!</span>
         <div className="showcase-btn">
           <button className="btn">
             <Link className="h-color no-decoration" href="#">
-              Invite now!
+              Purchase Now
             </Link>
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.gg/4Zvbr39qvr">
               Join server!
             </Link>
           </button>
