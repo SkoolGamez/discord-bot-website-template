@@ -14,10 +14,10 @@ export default function Commands() {
       animate={{ opacity: 1 }}
     >
       <Head>
-        <title>Commands | BOT</title>
+        <title>Features | Nova</title>
         <meta
           name="description"
-          content="Commands page | Minimal and awesome discord bot website created with ❤️ using NextJS"
+          content="Looking for a fortnite hack?, we got you covered insane tracking and more. created with ❤️ using NextJS"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -27,7 +27,7 @@ export default function Commands() {
         <nav className="accordion arrows" id="commands">
           <header className="box">
             <label htmlFor="acc-close" className="box-title h-color">
-              ⚡ Commands
+              ⚡ Features
             </label>
           </header>
           <input type="radio" name="accordion" id="cb1" />
