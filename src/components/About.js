@@ -41,16 +41,16 @@ const About = () => {
 
         <section className="about-stats">
           <div className="about-stats-card">
-            <h4 className="h-color">17k+</h4>
-            <p className="p-color">Total Servers</p>
+            <h4 className="h-color">10+</h4>
+            <p className="p-color">Vouches</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">94k+</h4>
+            <h4 className="h-color">10+</h4>
             <p className="p-color">Total Users</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">375k+</h4>
-            <p className="p-color">Total Commands Ran</p>
+            <h4 className="h-color">2k+</h4>
+            <p className="p-color">Total Games Played Without Ban</p>
           </div>
         </section>
       </section>
